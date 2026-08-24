@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.\nBack to the Top",
+      "description": "Note: You can easily convert this markdown file to a PDF in VSCode using this handy extension Markdown PDF.",
       "items": [
         {
           "node_type": "item",
@@ -353,10 +353,905 @@
         }
       ],
       "title": "A guide covering Retro Gaming including the applications and tools that will make you a better and more efficient with your Retro Gaming device."
+    },
+    {
+      "description": "RetroPie is a frontend for emulators that allows you to turn your Raspberry Pi, ODroid C1/C2, or PC into a retro-gaming machine. It builds upon Raspbian, EmulationStation, RetroArch and many other projects to enable you to play your favourite Arcade, home-console, and classic PC games with the minimum set-up.\nRetroArch is a frontend for emulators, game engines and media players. It enables you to run classic games on a wide range of computers and consoles through its slick graphical interface. Settings are also unified so configuration is done once and for all.\nDolphin is an emulator for two recent Nintendo video game consoles: the GameCube and the Wii. It allows PC gamers to enjoy games for these two consoles in full HD (1080p) with several enhancements: compatibility with all PC controllers, turbo speed, networked multiplayer, and even more.\nCitra is an open-source emulator for the Nintendo 3DS capable of playing many of your favorite games.\nyuzu is an experimental open-source emulator for the Nintendo Switch from the creators of Citra.\nm64p is a Nintendo 64 Emulator. It uses mupen64plus-gui, a brand new mupen64plus frontend written in Qt5. It supports all of the things you’d expect from a frontend (savestate management, pausing, screenshots, etc.).\nDeSmuME is a Nintendo DS emulator.\nSnes9x is a portable, freeware Super Nintendo Entertainment System (SNES) emulator.\nmGBA is a new emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack.\nDOSBox is an open-source DOS emulator which primarily focuses on running DOS Games.\nPCSX2 is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.\nRPCS3 is an experimental open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows and Linux. RPCS3 started development in May of 2011 by its founders DH and Hykem. The emulator is currently capable of running over 1800 commercial titles powered by Vulkan and OpenGL.\nPCXS4 is a PlayStation 4 emulator for playing PS4 games.\nMAME is a Arcade Machine Emulator.\nxemu is an original Xbox emulator.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "bsnes",
+          "description": "is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248757535,
+            "language": "C++",
+            "last_commit": "2026-05-23T06:55:52Z",
+            "owner": "bsnes-emu",
+            "repo": "bsnes",
+            "stars": 1976
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DOSBox Staging",
+          "description": "is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208509888,
+            "language": "C++",
+            "last_commit": "2026-08-24T08:19:40Z",
+            "owner": "dosbox-staging",
+            "repo": "dosbox-staging",
+            "stars": 1766
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flycast",
+          "description": "is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131286494,
+            "language": "C++",
+            "last_commit": "2026-08-24T12:43:03Z",
+            "owner": "flyinghead",
+            "repo": "flycast",
+            "stars": 2486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xenia",
+          "description": "is an Xbox 360 Emulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7550637,
+            "language": "C++",
+            "last_commit": "2026-02-18T19:46:07Z",
+            "owner": "xenia-project",
+            "repo": "xenia",
+            "stars": 9640
+          }
+        }
+      ],
+      "title": "Game Emulators"
+    },
+    {
+      "description": "Steam\nSteam Link app is available free of charge, streaming your Steam PC games to phones, tablets, and TV.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Proton",
+          "description": "is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125098880,
+            "language": "C++",
+            "last_commit": "2026-08-24T10:45:24Z",
+            "owner": "ValveSoftware",
+            "repo": "Proton",
+            "stars": 32635
+          }
+        }
+      ],
+      "title": "Steam"
+    },
+    {
+      "description": "GameHub supports:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GameHub",
+          "description": "is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 135071605,
+            "language": "Vala",
+            "last_commit": "2025-04-13T15:01:45Z",
+            "owner": "tkashkin",
+            "repo": "GameHub",
+            "stars": 2829
+          }
+        }
+      ],
+      "title": "GameHub"
+    },
+    {
+      "description": "Steam Deck is a handheld gaming computer developed by Valve Corporation in cooperation with Advanced Micro Devices (AMD). It allows users to play their entire Steam game library but can be modified by the user to run other gaming storefronts or applications. The Steam Deck will start shipping February 2022.\nSteam Deck device. Source: Steam Deck\nSteam OS 3.0 is an immutable Operating System(OS) using the KDE Plasma desktop. This allows you to install applications in containers using Flatpak, rather than onto the root filesystem. This means not only that the installation of applications is isolated from the core filesystem, but also that the ability for malicious applications to compromise/break your system is significantly reduced.\nSteam Deck Specs:\nOperating system: SteamOS 3.0 based on ArchLinux.\nSystem on a chip (SoC): AMD custom APU.\nCPU: Zen 2, 4-core, 8-threads, variable frequency @ 2.4–3.5 GHz.\nMemory: 16 GB LPDDR5 @ 5500 MT/s.\nStorage Options:\nAll models use M.2 2230 interface.\nRemovable Storage: microSD supports up to 2TB of additional storage for games.\nDisplay: 7-inch, 1280 × 800 LCD, native 720p @ 60Hz.\nDocked: Up to 8K @ 60Hz or 4K @ 120Hz.\nGraphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ArchTitus created by ChrisTitusTech",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 419857913,
+                "language": "Shell",
+                "last_commit": "2024-09-03T20:08:39Z",
+                "owner": "ChrisTitusTech",
+                "repo": "ArchTitus",
+                "stars": 1884
+              }
+            }
+          ],
+          "description": "Manjaro Linux\nEndeavourOS\nGauruda Linux\nArcoLinux\nFedora 35\nPop!_OS created by System76.",
+          "node_type": "group",
+          "title": "Other Linux Operating Systems for the Steam Deck."
+        }
+      ],
+      "title": "Steam Deck"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Gladys Assistant",
+              "description": "is a privacy-first, open-source home assistant and runs great on Raspberry Pi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36928490,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T14:13:52Z",
+                "owner": "GladysAssistant",
+                "repo": "Gladys",
+                "stars": 3155
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PiKVM",
+              "description": "is a very simple and fully functional Raspberry Pi-based KVM over IP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 208804714,
+                "language": null,
+                "last_commit": "2026-08-22T19:49:04Z",
+                "owner": "pikvm",
+                "repo": "pikvm",
+                "stars": 10266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PiShrink",
+              "description": "is a bash script that automatically shrink a pi image that will then resize to the max size of the SD card on boot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56025125,
+                "language": "Shell",
+                "last_commit": "2026-05-10T09:43:54Z",
+                "owner": "Drewsif",
+                "repo": "PiShrink",
+                "stars": 4100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RPiPlay",
+              "description": "is an open-source implementation of an AirPlay mirroring server for the Raspberry Pi that supports iOS 9 and later.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 185442524,
+                "language": "C++",
+                "last_commit": "2023-04-14T06:04:03Z",
+                "owner": "FD-",
+                "repo": "RPiPlay",
+                "stars": 5213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gpiozero",
+              "description": "is a simple interface to GPIO(General-Purpose Input/Output) devices with the Raspberry Pi.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42439862,
+                "language": "Python",
+                "last_commit": "2026-07-27T22:24:50Z",
+                "owner": "gpiozero",
+                "repo": "gpiozero",
+                "stars": 2136
+              }
+            }
+          ],
+          "description": "Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi.\nEtcher is an open source, cross-platform software that makes it easy to flash operating system images to a microSD card or USB device.\nHome Assistant is an open source home automation that puts local control and privacy first. Home Assistant is powered by a worldwide community of tinkerers and DIY enthusiasts that runs great on Raspberry Pi.\nKodi for Raspberry Pi is a free and open source media player application developed by the XBMC/Kodi Foundation.\nPi-hole is a DNS sinkhole that protects your devices from unwanted content, without installing any client-side software, intended for use on a private network. It is designed for use on embedded devices with network capability, such as the Raspberry Pi, but it can be used on other machines running Linux and cloud implementations.\nBalena Sound is a single or multi-room streamer for an existing audio device using a Raspberry Pi! It supports Bluetooth, Airplay and Spotify Connect.\nOpenBalena is a platform to deploy and manage connected devices.",
+          "node_type": "group",
+          "title": "Raspberry Pi Tools"
+        }
+      ],
+      "title": "Raspberry Pi"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vulkan Documentation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 51506618,
+                "language": "JavaScript",
+                "last_commit": "2026-08-14T01:06:03Z",
+                "owner": "KhronosGroup",
+                "repo": "Vulkan-Docs",
+                "stars": 3325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HLSL to SPIR-V Feature Mapping Manual",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75787966,
+                "language": "C++",
+                "last_commit": "2026-08-21T15:13:12Z",
+                "owner": "microsoft",
+                "repo": "DirectXShaderCompiler",
+                "stars": 3629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vulkan Samples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218329478,
+                "language": "C++",
+                "last_commit": "2026-08-18T14:36:25Z",
+                "owner": "KhronosGroup",
+                "repo": "Vulkan-Samples",
+                "stars": 5360
+              }
+            }
+          ],
+          "description": "Vulkan® is a modern cross-platform graphics and compute API that provides high-efficiency, cross-platform access to modern GPUs used in a wide variety of devices from PCs and consoles to mobile phones and embedded platforms. Vulkan is currently in development by the Khronos consortium.\nKhronos Group GitHub\nVulkan GLSL Ray Tracing Emulator Tutorial\nGetting Started with Vulkan\nKhronos Community Forums",
+          "node_type": "group",
+          "title": "Vulkan Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SPIRV-Reflect",
+              "description": "is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101667566,
+                "language": "C",
+                "last_commit": "2026-08-14T14:50:24Z",
+                "owner": "KhronosGroup",
+                "repo": "SPIRV-Reflect",
+                "stars": 867
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vulkan® Tools",
+              "description": "is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132043481,
+                "language": "C++",
+                "last_commit": "2026-08-20T14:42:00Z",
+                "owner": "KhronosGroup",
+                "repo": "Vulkan-Tools",
+                "stars": 486
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vulkan-Hpp",
+              "description": "is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61292682,
+                "language": "C++",
+                "last_commit": "2026-08-24T12:03:43Z",
+                "owner": "KhronosGroup",
+                "repo": "Vulkan-Hpp",
+                "stars": 3780
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DXVK",
+              "description": "is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106558568,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:35:10Z",
+                "owner": "doitsujin",
+                "repo": "dxvk",
+                "stars": 17907
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PerfDoc",
+              "description": "is a cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105034628,
+                "language": "C++",
+                "last_commit": "2022-01-20T15:46:30Z",
+                "owner": "ARM-software",
+                "repo": "perfdoc",
+                "stars": 117
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VulkanSharp",
+              "description": "is a project provides a .NET binding for the Vulkan API.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 51959580,
+                "language": "C#",
+                "last_commit": "2021-06-12T12:30:36Z",
+                "owner": "mono",
+                "repo": "VulkanSharp",
+                "stars": 531
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vortice.Vulkan",
+              "description": "is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 205874500,
+                "language": "C#",
+                "last_commit": "2026-05-25T06:56:54Z",
+                "owner": "amerkoleci",
+                "repo": "Vortice.Vulkan",
+                "stars": 394
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VKD3D-Proton",
+              "description": "is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209527239,
+                "language": "C",
+                "last_commit": "2026-08-24T09:35:34Z",
+                "owner": "HansKristian-Work",
+                "repo": "vkd3d-proton",
+                "stars": 2923
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ImGui",
+              "description": "is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22067521,
+                "language": "C++",
+                "last_commit": "2026-08-23T11:05:37Z",
+                "owner": "ocornut",
+                "repo": "imgui",
+                "stars": 75842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ash",
+              "description": "is a very lightweight wrapper around Vulkan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65640886,
+                "language": "Rust",
+                "last_commit": "2026-08-12T11:40:23Z",
+                "owner": "ash-rs",
+                "repo": "ash",
+                "stars": 2330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "gfx-rs",
+              "description": "is a low-level, cross-platform graphics and compute abstraction library in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13847975,
+                "language": "Rust",
+                "last_commit": "2023-02-27T01:05:58Z",
+                "owner": "gfx-rs",
+                "repo": "gfx",
+                "stars": 5398
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vulkan.jl",
+              "description": "is a lightweight wrapper around the Vulkan graphics and compute library. It exposes abstractions over the underlying C interface, primarily geared towards developers looking for a more natural way to work with Vulkan with minimal overhead.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54970775,
+                "language": "Julia",
+                "last_commit": "2026-08-03T10:45:38Z",
+                "owner": "JuliaGPU",
+                "repo": "Vulkan.jl",
+                "stars": 128
+              }
+            }
+          ],
+          "description": "Vulkan SDK is a set of tools that enables Vulkan developers to develop Vulkan applications.\nSPIR-V is a set of tools that enables high-level language front-ends to emit programs in a standardized intermediate form to be ingested by Vulkan, OpenGL or OpenCL drivers. It eliminates the need for high-level language front-end compilers in device drivers, significantly reducing driver complexity, enables a broad range of language and framework front-ends to run on diverse hardware architectures and encourages a vibrant ecosystem of open source analysis, porting, debug and optimization tools.\nVulkan® Memory Allocator (VMA) is a library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.\nAMD Open Source Driver for Vulkan® is an open-source Vulkan driver for AMD Radeon™ graphics adapters on Linux®.\nNVIDIA® Nsight™ Visual Studio Edition is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.\nRadeon™ GPU Profiler is a performance tool that can be used by developers to optimize DirectX®12, Vulkan® and OpenCL™ applications for AMD RDNA™ and GCN hardware.\nRadeon™ GPU Analyzer is a compiler and code analysis tool for Vulkan®, DirectX®, OpenGL® and OpenCL™.\nRadeon™ Memory Visualizer (RMV) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.\nMoltenVK is an implementation of Vulkan running on iOS and macOS using Apple's Metal graphics framework.\nRenderDoc is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.\nGLFW is an Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc. GLFW natively supports Windows, macOS and Linux and other Unix-like systems. On Linux both X11 and Wayland are supported.",
+          "node_type": "group",
+          "title": "Vulkan Tools, Libraries, and Frameworks"
+        }
+      ],
+      "title": "Vulkan Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DirectX-Graphics-Samples",
+              "description": "is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36831874,
+                "language": "C++",
+                "last_commit": "2026-08-14T18:48:25Z",
+                "owner": "microsoft",
+                "repo": "DirectX-Graphics-Samples",
+                "stars": 6816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NVRHI (NVIDIA Rendering Hardware Interface)",
+              "description": "is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385536001,
+                "language": "C++",
+                "last_commit": "2026-06-16T18:27:13Z",
+                "owner": "NVIDIA-RTX",
+                "repo": "NVRHI",
+                "stars": 2005
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RTXMU - RTX Memory Utility SDK",
+              "description": "is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 385537462,
+                "language": "C++",
+                "last_commit": "2025-10-30T15:39:54Z",
+                "owner": "NVIDIA-RTX",
+                "repo": "RTXMU",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DXVK",
+              "description": "is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106558568,
+                "language": "C++",
+                "last_commit": "2026-08-24T14:35:10Z",
+                "owner": "doitsujin",
+                "repo": "dxvk",
+                "stars": 17907
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VKD3D-Proton",
+              "description": "is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 209527239,
+                "language": "C",
+                "last_commit": "2026-08-24T09:35:34Z",
+                "owner": "HansKristian-Work",
+                "repo": "vkd3d-proton",
+                "stars": 2923
+              }
+            }
+          ],
+          "description": "Visual Studio is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.\nVisual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.\nPIX on Windows is a performance tuning and debugging tool for DirectX 12 games on Windows.\nDirectStorage API is an API in the DirectX family originally designed for the Velocity Architecture to Windows. The DirectX API is architected in a way that takes all this into account and maximizes performance throughout the entire pipeline from NVMe drive all the way to the GPU. It does this in several ways: by reducing per-request NVMe overhead, enabling batched many-at-a-time parallel IO requests which can be efficiently fed to the GPU, and giving games finer grain control over when they get notified of IO request completion instead of having to react to every tiny IO completion. The DirectStorage API will be available on Windows 11 PCs with NVMe SSDs, but will also be support in Windows 10 version 1909 and newer.\nNVIDIA® Nsight™ Visual Studio Edition is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.\nRadeon™ GPU Profiler is a performance tool that can be used by developers to optimize DirectX®12, Vulkan® and OpenCL™ applications for AMD RDNA™ and GCN hardware.\nRadeon™ GPU Analyzer is a compiler and code analysis tool for Vulkan®, DirectX®, OpenGL® and OpenCL™.\nRadeon™ Memory Visualizer (RMV) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.\nFNA is an XNA4 reimplementation that focuses solely on developing a fully accurate XNA4 runtime for the desktop.\nFAudio is an XAudio reimplementation that focuses solely on developing fully accurate DirectX Audio runtime libraries for the FNA project, including XAudio2, X3DAudio, XAPO, and XACT3.\nSimple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.\nRenderDoc is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.",
+          "node_type": "group",
+          "title": "DirectX Tools, Libraries, and Frameworks"
+        }
+      ],
+      "title": "DirectX Development"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Kata Operator",
+              "description": "is an operator to perform lifecycle management (install/upgrade/uninstall) of Kata Runtime on Openshift as well as Kubernetes cluster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286818960,
+                "language": "Shell",
+                "last_commit": "2026-08-24T13:23:39Z",
+                "owner": "openshift",
+                "repo": "sandboxed-containers-operator",
+                "stars": 50
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenShift Hive",
+              "description": "is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148682741,
+                "language": "Go",
+                "last_commit": "2026-08-21T19:47:47Z",
+                "owner": "openshift",
+                "repo": "hive",
+                "stars": 275
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KubeInit",
+              "description": "provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 283747774,
+                "language": "Python",
+                "last_commit": "2025-12-05T21:26:59Z",
+                "owner": "Kubeinit",
+                "repo": "kubeinit",
+                "stars": 223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "K3s",
+              "description": "is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135516270,
+                "language": "Go",
+                "last_commit": "2026-08-22T18:13:00Z",
+                "owner": "k3s-io",
+                "repo": "k3s",
+                "stars": 33803
+              }
+            }
+          ],
+          "description": "Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.\nOpen Container Initiative is an open governance structure for the express purpose of creating open industry standards around container formats and runtimes.\nBuildah is a command line tool to build Open Container Initiative (OCI) images. It can be used with Docker, Podman, Kubernetes.\nPodman is a daemonless, open source, Linux native tool designed to make it easy to find, run, build, share and deploy applications using Open Containers Initiative (OCI) Containers and Container Images. Podman provides a command line interface (CLI) familiar to anyone who has used the Docker Container Engine.\nContainerd is a daemon that manages the complete container lifecycle of its host system, from image transfer and storage to container execution and supervision to low-level storage to network attachments and beyond. It is available for Linux and Windows.\nGoogle Kubernetes Engine (GKE) is a managed, production-ready environment for running containerized applications.\nAzure Kubernetes Service (AKS) is serverless Kubernetes, with a integrated continuous integration and continuous delivery (CI/CD) experience, and enterprise-grade security and governance. Unite your development and operations teams on a single platform to rapidly build, deliver, and scale applications with confidence.\nAmazon EKS is a tool that runs Kubernetes control plane instances across multiple Availability Zones to ensure high availability.\nAWS Controllers for Kubernetes (ACK) is a new tool that lets you directly manage AWS services from Kubernetes. ACK makes it simple to build scalable and highly-available Kubernetes applications that utilize AWS services.\nContainer Engine for Kubernetes (OKE) is an Oracle-managed container orchestration service that can reduce the time and cost to build modern cloud native applications. Unlike most other vendors, Oracle Cloud Infrastructure provides Container Engine for Kubernetes as a free service that runs on higher-performance, lower-cost compute.\nAnthos is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments.\nRed Hat Openshift is a fully managed Kubernetes platform that provides a foundation for on-premises, hybrid, and multicloud deployments.\nOKD is a community distribution of Kubernetes optimized for continuous application development and multi-tenant deployment. OKD adds developer and operations-centric tools on top of Kubernetes to enable rapid application development, easy deployment and scaling, and long-term lifecycle maintenance for small and large teams.\nOdo is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.\nThanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.\nRook is a tool that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.\nVMware Tanzu is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.\nKubespray is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on AWS, GCE, Azure, OpenStack, vSphere, Packet (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.\nRancher is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.\nHelm is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.\nKnative is a Kubernetes-based platform to build, deploy, and manage modern serverless workloads. Knative takes care of the operational overhead details of networking, autoscaling (even to zero), and revision tracking.\nKubeFlow is a tool dedicated to making deployments of machine learning (ML) workflows on Kubernetes simple, portable and scalable.\nEtcd is a distributed key-value store that provides a reliable way to store data that needs to be accessed by a distributed system or cluster of machines. Etcd is used as the backend for service discovery and stores cluster state and configuration for Kubernetes.\nOpenEBS is a Kubernetes-based tool to create stateful applications using Container Attached Storage.\nContainer Storage Interface (CSI) is an API that lets container orchestration platforms like Kubernetes seamlessly communicate with stored data via a plug-in.\nMicroK8s is a tool that delivers the full Kubernetes experience. In a Fully containerized deployment with compressed over-the-air updates for ultra-reliable operations. It is supported on Linux, Windows, and MacOS.\nCharmed Kubernetes is a well integrated, turn-key, conformant Kubernetes platform, optimized for your multi-cloud environments developed by Canonical.\nGrafana Kubernetes App is a toll that allows you to monitor your Kubernetes cluster's performance. It includes 4 dashboards, Cluster, Node, Pod/Container and Deployment. It allows for the automatic deployment of the required Prometheus exporters and a default scrape config to use with your in cluster Prometheus deployment.\nKubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge.It is built upon kubernetes and provides fundamental infrastructure support for network, app. deployment and metadata synchronization between cloud and edge.\nLens is the most powerful IDE for people who need to deal with Kubernetes clusters on a daily basis. It has support for MacOS, Windows and Linux operating systems.\nFlux CD is a tool that automatically ensures that the state of your Kubernetes cluster matches the configuration you've supplied in Git. It uses an operator in the cluster to trigger deployments inside Kubernetes, which means that you don't need a separate continuous delivery tool.",
+          "node_type": "group",
+          "title": "Kubernetes Tools, Frameworks, and Projects"
+        }
+      ],
+      "title": "Kubernetes"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ansible Collections Overview",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 240036592,
+                "language": null,
+                "last_commit": "2024-05-28T12:25:11Z",
+                "owner": "ansible-collections",
+                "repo": "overview",
+                "stars": 245
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ansible for DevOps Examples by Jeff Geerling",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19130362,
+                "language": "Python",
+                "last_commit": "2025-05-25T06:03:59Z",
+                "owner": "geerlingguy",
+                "repo": "ansible-for-devops",
+                "stars": 9869
+              }
+            }
+          ],
+          "description": "Ansible is a simple IT automation engine that automates cloud provisioning, configuration management, application deployment, intra-service orchestration, and many other IT needs. It uses a very simple language (YAML, in the form of Ansible Playbooks) that allows you to describe your automation jobs in a way that approaches plain English. Anisble works on Linux (Red Hat EnterPrise Linux(RHEL) and Ubuntu) and Microsoft Windows.\nAnsible Documentation\nAnsible Galaxy User Guide\nAnsible Use Cases\nAnsible Integrations\nWorking with playbooks\nGetting Started: Writing Your First Playbook - Ansible\nWorking With Modules in Ansible\nAnsible Best Practices: Roles & Modules\nWorking with command line tools for Ansible\nEncrypting content with Ansible Vault\nUsing vault in playbooks with Ansible\nUsing Ansible With Azure\nConfiguring Ansible on an Azure VM\nHow to Use Ansible: An Ansible Cheat Sheet Guide from DigitalOcean\nIntro to Ansible on Linode | Spatial Labs",
+          "node_type": "group",
+          "title": "Ansible Learning Resources"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ansible Inventory Grapher",
+              "description": "visually displays inventory inheritance hierarchies and at what level a variable is defined in inventory.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18399889,
+                "language": "Python",
+                "last_commit": "2026-02-26T11:56:10Z",
+                "owner": "willthames",
+                "repo": "ansible-inventory-grapher",
+                "stars": 470
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ansible Playbook Grapher",
+              "description": "is a command line tool to create a graph representing your Ansible playbook tasks and roles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108265239,
+                "language": "Python",
+                "last_commit": "2026-08-05T02:50:31Z",
+                "owner": "haidaraM",
+                "repo": "ansible-playbook-grapher",
+                "stars": 758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ansible Shell",
+              "description": "is an interactive shell for Ansible with built-in tab completion for all the modules.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 10220615,
+                "language": "Python",
+                "last_commit": "2025-01-07T08:51:03Z",
+                "owner": "dominis",
+                "repo": "ansible-shell",
+                "stars": 547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ansigenome",
+              "description": "is a command line tool designed to help you manage your Ansible roles.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22084524,
+                "language": "Python",
+                "last_commit": "2019-05-30T09:39:18Z",
+                "owner": "nickjj",
+                "repo": "ansigenome",
+                "stars": 448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARA",
+              "description": "is a records Ansible playbook runs and makes the recorded data available and intuitive for users and systems by integrating with Ansible as a callback plugin.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60729995,
+                "language": "Python",
+                "last_commit": "2026-07-13T13:02:21Z",
+                "owner": "ansible-community",
+                "repo": "ara",
+                "stars": 2019
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenShift Hive",
+              "description": "is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148682741,
+                "language": "Go",
+                "last_commit": "2026-08-21T19:47:47Z",
+                "owner": "openshift",
+                "repo": "hive",
+                "stars": 275
+              }
+            }
+          ],
+          "description": "Ansible Automation Hub is the official location to discover and download supported collections, included as part of an Ansible Automation Platform subscription. These content collections contain modules, plugins, roles, and playbooks in a downloadable package.\nCollections are a distribution format for Ansible content that can include playbooks, roles, modules, and plugins. As modules move from the core Ansible repository into collections, the module documentation will move to the collections pages.\nAnsible Lint is a command-line tool for linting playbooks, roles and collections aimed towards any Ansible users. Its main goal is to promote proven practices, patterns and behaviors while avoiding common pitfalls that can easily lead to bugs or make code harder to maintain.\nCapistrano is a remote server automation tool. It supports the scripting and execution of arbitrary tasks, and includes a set of sane-default deployment workflows.\nFabric is a high level Python (2.7, 3.4+) library designed to execute shell commands remotely over SSH, yielding useful Python objects in return. It builds on top of Invoke (subprocess command execution and command-line features) and Paramiko (SSH protocol implementation), extending their APIs to complement one another and provide additional functionality.\nansible-role-wireguard is an Ansible role for installing WireGuard VPN. Supports Ubuntu, Debian, Archlinx, Fedora and CentOS Stream.\nwireguard_cloud_gateway is an Ansible role for setting up Wireguard as a gateway VPN server for cloud networks.\nRed Hat OpenShift is focused on security at every level of the container stack and throughout the application lifecycle. It includes long-term, enterprise support from one of the leading Kubernetes contributors and open source software companies.",
+          "node_type": "group",
+          "title": "Ansible DevOps Tools Integration"
+        }
+      ],
+      "title": "Ansible"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "cURL Fuzzer",
+              "description": "is a quality assurance testing for the curl project.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104416990,
+                "language": "C++",
+                "last_commit": "2026-08-21T18:05:43Z",
+                "owner": "curl",
+                "repo": "curl-fuzzer",
+                "stars": 100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DoH",
+              "description": "is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130464872,
+                "language": "C",
+                "last_commit": "2026-04-28T19:02:38Z",
+                "owner": "curl",
+                "repo": "doh",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTPie",
+              "description": "is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3544424,
+                "language": "Python",
+                "last_commit": "2024-12-17T17:30:35Z",
+                "owner": "httpie",
+                "repo": "cli",
+                "stars": 38446
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTTPStat",
+              "description": "is a tool that visualizes curl statistics in a simple layout.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66913302,
+                "language": "Python",
+                "last_commit": "2026-04-08T10:04:34Z",
+                "owner": "reorx",
+                "repo": "httpstat",
+                "stars": 6215
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wuzz",
+              "description": "is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the \"copy as cURL\" feature.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80465011,
+                "language": "Go",
+                "last_commit": "2026-08-04T12:36:56Z",
+                "owner": "asciimoo",
+                "repo": "wuzz",
+                "stars": 10720
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Websocat",
+              "description": "is a ommand-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74579985,
+                "language": "Rust",
+                "last_commit": "2026-08-13T10:17:56Z",
+                "owner": "vi",
+                "repo": "websocat",
+                "stars": 8673
+              }
+            }
+          ],
+          "description": "cURL is a computer software project providing a library and command-line tool for transferring data using various network protocols(HTTP, HTTPS, FTP, FTPS, SCP, SFTP, TFTP, DICT, TELNET, LDAP LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP or SMTPS). cURL is also used in cars, television sets, routers, printers, audio equipment, mobile phones, tablets, settop boxes, media players and is the Internet transfer engine for thousands of software applications in over ten billion installations.\nAuthelia is an open-source highly-available authentication server providing single sign-on capability and two-factor authentication to applications running behind NGINX.\nnginx(engine x) is an HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server, originally written by Igor Sysoev.\nProxmox Virtual Environment(VE) is a complete open-source platform for enterprise virtualization. It inlcudes a built-in web interface that you can easily manage VMs and containers, software-defined storage and networking, high-availability clustering, and multiple out-of-the-box tools on a single solution.\nWireshark is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful Wireshark Tools available.\nPackets have a header portion that contains information about the packet including the source and destination, timestamps, network hops. The main portion of a packet contains the actual data being transferred. It is sometimes called the body or the payload.\nA network interface may be associated with a physical device, or it may be a representation of a virtual interface. The \"loop-back\" device, which is a virtual interface to the local machine, is an example of this.\nIf an interface is connected to the WAN, it is generally assumed that it is reachable through the internet.\nSome low level protocols are TCP, UDP, IP, and ICMP. Some familiar examples of application layer protocols, built on these lower protocols, are HTTP (for accessing web content), SSH, TLS/SSL, and FTP.",
+          "node_type": "group",
+          "title": "Networking Tools & Concepts"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "If would you like to contribute to this guide simply make a Pull Request",
+              "description": ".",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 457126981,
+                "language": "Shell",
+                "last_commit": "2022-02-28T08:56:59Z",
+                "owner": "mikeroyal",
+                "repo": "Retro-Gaming-Guide",
+                "stars": 61
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Contribute"
+        }
+      ],
+      "title": "Networking"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:30:41.191Z",
+    "last_updated": "2026-08-24T14:48:30.744Z",
     "original_repository": "mikeroyal/Retro-Gaming-Guide",
     "original_repository_id": 457126981,
     "original_repository_sha": "03d014be22a8671c44b0804d88e5b1f35ccffc36",

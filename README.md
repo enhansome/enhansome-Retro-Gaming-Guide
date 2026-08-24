@@ -88,7 +88,7 @@
 
 [DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,766 | 🐛 184 | 🌐 C++ | 📅 2026-08-24 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.
 
-[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,486 | 🐛 291 | 🌐 C++ | 📅 2026-08-24 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
+[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,486 | 🐛 290 | 🌐 C++ | 📅 2026-08-24 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
 
 [PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
 
@@ -100,7 +100,7 @@
 
 [xemu](https://xemu.app/) is an original Xbox emulator.
 
-[Xenia](https://github.com/xenia-project/xenia) ⭐ 9,642 | 🐛 314 | 🌐 C++ | 📅 2026-02-18 is an Xbox 360 Emulator.
+[Xenia](https://github.com/xenia-project/xenia) ⭐ 9,640 | 🐛 314 | 🌐 C++ | 📅 2026-02-18 is an Xbox 360 Emulator.
 
 ## Steam
 
@@ -116,7 +116,7 @@
  <img src="https://user-images.githubusercontent.com/45159366/112692999-14ea9800-8e3d-11eb-964a-6bee4e665900.png">
 </p>
 
-[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,631 | 🐛 5,173 | 🌐 C++ | 📅 2026-08-24 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,635 | 🐛 5,173 | 🌐 C++ | 📅 2026-08-24 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
 ### Enable Proton in Steam
 
@@ -447,7 +447,7 @@ Pop!_OS Desktop
 
 [Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Home Assistant is powered by a worldwide community of tinkerers and DIY enthusiasts that runs great on Raspberry Pi.
 
-[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,155 | 🐛 56 | 🌐 JavaScript | 📅 2026-08-24 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
+[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,155 | 🐛 50 | 🌐 JavaScript | 📅 2026-08-24 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
 
 [Kodi for Raspberry Pi](https://kodi.tv/download/853) is a free and open source media player application developed by the XBMC/Kodi Foundation.
 
@@ -540,7 +540,7 @@ Pop!_OS Desktop
 
 [Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,325 | 🐛 385 | 🌐 JavaScript | 📅 2026-08-14
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,628 | 🐛 776 | 🌐 C++ | 📅 2026-08-21
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,629 | 🐛 776 | 🌐 C++ | 📅 2026-08-21
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
@@ -560,7 +560,7 @@ Pop!_OS Desktop
 
 [Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 486 | 🐛 29 | 🌐 C++ | 📅 2026-08-20 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,780 | 🐛 27 | 🌐 C++ | 📅 2026-08-20 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,780 | 🐛 26 | 🌐 C++ | 📅 2026-08-24 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -574,7 +574,7 @@ Pop!_OS Desktop
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,906 | 🐛 256 | 🌐 C++ | 📅 2026-08-23 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-24 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -588,9 +588,9 @@ Pop!_OS Desktop
 
 [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 394 | 🐛 2 | 🌐 C# | 📅 2026-05-25 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 344 | 🌐 C | 📅 2026-08-21 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 345 | 🌐 C | 📅 2026-08-24 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 75,838 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 75,842 | 🐛 1,234 | 🌐 C++ | 📅 2026-08-23 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
 [Ash](https://github.com/MaikKlein/ash) ⭐ 2,330 | 🐛 78 | 🌐 Rust | 📅 2026-08-12 is a very lightweight wrapper around Vulkan.
 
@@ -635,7 +635,7 @@ Pop!_OS Desktop
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,817 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
+[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,816 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
 
 [PIX on Windows](https://devblogs.microsoft.com/pix/documentation/) is a performance tuning and debugging tool for DirectX 12 games on Windows.
 
@@ -659,9 +659,9 @@ Pop!_OS Desktop
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,906 | 🐛 256 | 🌐 C++ | 📅 2026-08-23 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,907 | 🐛 256 | 🌐 C++ | 📅 2026-08-24 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 344 | 🌐 C | 📅 2026-08-21 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,923 | 🐛 345 | 🌐 C | 📅 2026-08-24 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
@@ -841,7 +841,7 @@ Pop!_OS Desktop
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 44 | 🌐 Shell | 📅 2026-08-22 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 45 | 🌐 Shell | 📅 2026-08-24 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
@@ -857,7 +857,7 @@ Pop!_OS Desktop
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 33,796 | 🐛 71 | 🌐 Go | 📅 2026-08-22 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 33,803 | 🐛 71 | 🌐 Go | 📅 2026-08-22 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -989,7 +989,7 @@ Pop!_OS Desktop
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,447 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,446 | 🐛 332 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,215 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
