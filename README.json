@@ -435,7 +435,7 @@
             "last_commit": "2026-08-25T02:55:18Z",
             "owner": "ValveSoftware",
             "repo": "Proton",
-            "stars": 32646
+            "stars": 32647
           }
         }
       ],
@@ -504,7 +504,7 @@
                 "archived": false,
                 "id": 36928490,
                 "language": "JavaScript",
-                "last_commit": "2026-08-25T05:14:18Z",
+                "last_commit": "2026-08-25T08:13:28Z",
                 "owner": "GladysAssistant",
                 "repo": "Gladys",
                 "stars": 3156
@@ -767,7 +767,7 @@
                 "last_commit": "2026-08-23T11:05:37Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75854
+                "stars": 75855
               }
             },
             {
@@ -855,7 +855,7 @@
                 "last_commit": "2026-08-25T01:52:03Z",
                 "owner": "NVIDIA-RTX",
                 "repo": "NVRHI",
-                "stars": 2005
+                "stars": 2006
               }
             },
             {
@@ -925,7 +925,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-25T04:52:51Z",
+                "last_commit": "2026-08-25T08:11:39Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -973,7 +973,7 @@
                 "last_commit": "2026-08-22T18:13:00Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33809
+                "stars": 33810
               }
             }
           ],
@@ -1171,7 +1171,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38449
+                "stars": 38450
               }
             },
             {
@@ -1251,7 +1251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:38:29.881Z",
+    "last_updated": "2026-08-25T08:24:20.093Z",
     "original_repository": "mikeroyal/Retro-Gaming-Guide",
     "original_repository_id": 457126981,
     "original_repository_sha": "03d014be22a8671c44b0804d88e5b1f35ccffc36",
