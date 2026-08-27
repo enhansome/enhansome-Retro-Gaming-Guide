@@ -384,7 +384,7 @@
             "last_commit": "2026-08-27T08:20:33Z",
             "owner": "dosbox-staging",
             "repo": "dosbox-staging",
-            "stars": 1766
+            "stars": 1767
           }
         },
         {
@@ -396,10 +396,10 @@
             "archived": false,
             "id": 131286494,
             "language": "C++",
-            "last_commit": "2026-08-24T12:43:03Z",
+            "last_commit": "2026-08-27T17:05:34Z",
             "owner": "flyinghead",
             "repo": "flycast",
-            "stars": 2490
+            "stars": 2491
           }
         },
         {
@@ -414,7 +414,7 @@
             "last_commit": "2026-02-18T19:46:07Z",
             "owner": "xenia-project",
             "repo": "xenia",
-            "stars": 9650
+            "stars": 9651
           }
         }
       ],
@@ -432,10 +432,10 @@
             "archived": false,
             "id": 125098880,
             "language": "C++",
-            "last_commit": "2026-08-27T02:59:03Z",
+            "last_commit": "2026-08-27T18:11:26Z",
             "owner": "ValveSoftware",
             "repo": "Proton",
-            "stars": 32663
+            "stars": 32666
           }
         }
       ],
@@ -479,7 +479,7 @@
                 "last_commit": "2024-09-03T20:08:39Z",
                 "owner": "ChrisTitusTech",
                 "repo": "ArchTitus",
-                "stars": 1884
+                "stars": 1883
               }
             }
           ],
@@ -504,7 +504,7 @@
                 "archived": false,
                 "id": 36928490,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T12:00:46Z",
+                "last_commit": "2026-08-27T15:47:28Z",
                 "owner": "GladysAssistant",
                 "repo": "Gladys",
                 "stars": 3156
@@ -522,7 +522,7 @@
                 "last_commit": "2026-08-22T19:49:04Z",
                 "owner": "pikvm",
                 "repo": "pikvm",
-                "stars": 10273
+                "stars": 10274
               }
             },
             {
@@ -674,7 +674,7 @@
                 "archived": false,
                 "id": 61292682,
                 "language": "C++",
-                "last_commit": "2026-08-27T11:02:10Z",
+                "last_commit": "2026-08-27T14:51:36Z",
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Hpp",
                 "stars": 3782
@@ -692,7 +692,7 @@
                 "last_commit": "2026-08-26T11:38:26Z",
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 17934
+                "stars": 17936
               }
             },
             {
@@ -749,7 +749,7 @@
                 "archived": false,
                 "id": 209527239,
                 "language": "C",
-                "last_commit": "2026-08-27T11:44:29Z",
+                "last_commit": "2026-08-27T16:55:48Z",
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2929
@@ -767,7 +767,7 @@
                 "last_commit": "2026-08-23T11:05:37Z",
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 75889
+                "stars": 75891
               }
             },
             {
@@ -885,7 +885,7 @@
                 "last_commit": "2026-08-26T11:38:26Z",
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 17934
+                "stars": 17936
               }
             },
             {
@@ -897,7 +897,7 @@
                 "archived": false,
                 "id": 209527239,
                 "language": "C",
-                "last_commit": "2026-08-27T11:44:29Z",
+                "last_commit": "2026-08-27T16:55:48Z",
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2929
@@ -925,7 +925,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-27T12:02:40Z",
+                "last_commit": "2026-08-27T16:05:22Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -970,10 +970,10 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-25T18:18:07Z",
+                "last_commit": "2026-08-27T16:11:17Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33831
+                "stars": 33835
               }
             }
           ],
@@ -1016,7 +1016,7 @@
                 "last_commit": "2025-05-25T06:03:59Z",
                 "owner": "geerlingguy",
                 "repo": "ansible-for-devops",
-                "stars": 9873
+                "stars": 9874
               }
             }
           ],
@@ -1171,7 +1171,7 @@
                 "last_commit": "2024-12-17T17:30:35Z",
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38460
+                "stars": 38463
               }
             },
             {
@@ -1201,7 +1201,7 @@
                 "last_commit": "2026-08-04T12:36:56Z",
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10722
+                "stars": 10723
               }
             },
             {
@@ -1216,7 +1216,7 @@
                 "last_commit": "2026-08-13T10:17:56Z",
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8673
+                "stars": 8674
               }
             }
           ],
@@ -1251,7 +1251,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:30.034Z",
+    "last_updated": "2026-08-27T18:25:11.307Z",
     "original_repository_info": {
       "archived": false,
       "id": 457126981,
