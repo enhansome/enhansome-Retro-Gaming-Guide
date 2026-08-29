@@ -86,9 +86,9 @@
 
 [DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
 
-[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,771 | 🐛 185 | 🌐 C++ | 📅 2026-08-27 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.
+[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,772 | 🐛 185 | 🌐 C++ | 📅 2026-08-27 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.
 
-[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,494 | 🐛 292 | 🌐 C++ | 📅 2026-08-28 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
+[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,496 | 🐛 292 | 🌐 C++ | 📅 2026-08-28 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
 
 [PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
 
@@ -116,7 +116,7 @@
  <img src="https://user-images.githubusercontent.com/45159366/112692999-14ea9800-8e3d-11eb-964a-6bee4e665900.png">
 </p>
 
-[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,677 | 🐛 5,179 | 🌐 C++ | 📅 2026-08-28 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,678 | 🐛 5,179 | 🌐 C++ | 📅 2026-08-28 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
 ### Enable Proton in Steam
 
@@ -447,13 +447,13 @@ Pop!_OS Desktop
 
 [Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Home Assistant is powered by a worldwide community of tinkerers and DIY enthusiasts that runs great on Raspberry Pi.
 
-[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,164 | 🐛 51 | 🌐 JavaScript | 📅 2026-08-29 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
+[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,165 | 🐛 52 | 🌐 JavaScript | 📅 2026-08-29 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
 
 [Kodi for Raspberry Pi](https://kodi.tv/download/853) is a free and open source media player application developed by the XBMC/Kodi Foundation.
 
 [Pi-hole](https://pi-hole.net/) is a [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_Sinkhole) that protects your devices from unwanted content, without installing any client-side software, intended for use on a private network. It is designed for use on embedded devices with network capability, such as the Raspberry Pi, but it can be used on other machines running Linux and cloud implementations.
 
-[PiKVM](https://github.com/pikvm/pikvm) ⭐ 10,279 | 🐛 86 | 📅 2026-08-28 is a very simple and fully functional Raspberry Pi-based KVM over IP.
+[PiKVM](https://github.com/pikvm/pikvm) ⭐ 10,279 | 🐛 85 | 📅 2026-08-29 is a very simple and fully functional Raspberry Pi-based KVM over IP.
 
 [PiShrink](https://github.com/Drewsif/PiShrink) ⭐ 4,100 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 is a bash script that automatically shrink a pi image that will then resize to the max size of the SD card on boot.
 
@@ -546,7 +546,7 @@ Pop!_OS Desktop
 
 [Getting Started with Vulkan](https://vulkan-tutorial.com/)
 
-[Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples) ⭐ 5,362 | 🐛 64 | 🌐 C++ | 📅 2026-08-24
+[Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples) ⭐ 5,362 | 🐛 65 | 🌐 C++ | 📅 2026-08-29
 
 [Khronos Community Forums](https://community.khronos.org/)
 
@@ -574,7 +574,7 @@ Pop!_OS Desktop
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,952 | 🐛 256 | 🌐 C++ | 📅 2026-08-28 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,954 | 🐛 256 | 🌐 C++ | 📅 2026-08-28 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -590,7 +590,7 @@ Pop!_OS Desktop
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,933 | 🐛 342 | 🌐 C | 📅 2026-08-28 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 75,920 | 🐛 1,239 | 🌐 C++ | 📅 2026-08-28 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 75,931 | 🐛 1,240 | 🌐 C++ | 📅 2026-08-28 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
 [Ash](https://github.com/MaikKlein/ash) ⭐ 2,333 | 🐛 78 | 🌐 Rust | 📅 2026-08-28 is a very lightweight wrapper around Vulkan.
 
@@ -635,7 +635,7 @@ Pop!_OS Desktop
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,820 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
+[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,822 | 🐛 112 | 🌐 C++ | 📅 2026-08-14 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
 
 [PIX on Windows](https://devblogs.microsoft.com/pix/documentation/) is a performance tuning and debugging tool for DirectX 12 games on Windows.
 
@@ -659,7 +659,7 @@ Pop!_OS Desktop
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,952 | 🐛 256 | 🌐 C++ | 📅 2026-08-28 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 17,954 | 🐛 256 | 🌐 C++ | 📅 2026-08-28 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,933 | 🐛 342 | 🌐 C | 📅 2026-08-28 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
@@ -841,7 +841,7 @@ Pop!_OS Desktop
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 44 | 🌐 Shell | 📅 2026-08-28 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 46 | 🌐 Shell | 📅 2026-08-29 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
@@ -857,7 +857,7 @@ Pop!_OS Desktop
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 33,842 | 🐛 73 | 🌐 Go | 📅 2026-08-28 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 33,843 | 🐛 73 | 🌐 Go | 📅 2026-08-28 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -908,7 +908,7 @@ Pop!_OS Desktop
 
 [Working with playbooks](https://docs.ansible.com/ansible/latest/user_guide/playbooks.html)
 
-[Ansible for DevOps Examples by Jeff Geerling](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,875 | 🐛 119 | 🌐 Python | 📅 2025-05-25
+[Ansible for DevOps Examples by Jeff Geerling](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,876 | 🐛 119 | 🌐 Python | 📅 2025-05-25
 
 [Getting Started: Writing Your First Playbook - Ansible](https://www.ansible.com/blog/getting-started-writing-your-first-playbook)
 
@@ -942,7 +942,7 @@ Pop!_OS Desktop
 
 [Ansible Inventory Grapher](https://github.com/willthames/ansible-inventory-grapher) ⭐ 470 | 🐛 12 | 🌐 Python | 📅 2026-02-26 visually displays inventory inheritance hierarchies and at what level a variable is defined in inventory.
 
-[Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) ⭐ 759 | 🐛 5 | 🌐 Python | 📅 2026-08-05 is a  command line tool to create a graph representing your Ansible playbook tasks and roles.
+[Ansible Playbook Grapher](https://github.com/haidaraM/ansible-playbook-grapher) ⭐ 760 | 🐛 5 | 🌐 Python | 📅 2026-08-05 is a  command line tool to create a graph representing your Ansible playbook tasks and roles.
 
 [Ansible Shell](https://github.com/dominis/ansible-shell) ⚠️ Archived is an interactive shell for Ansible with built-in tab completion for all the modules.
 
@@ -989,7 +989,7 @@ Pop!_OS Desktop
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,465 | 🐛 335 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,465 | 🐛 336 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
