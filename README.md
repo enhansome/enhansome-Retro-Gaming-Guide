@@ -15,47 +15,47 @@
 
 # Table of Contents
 
-1. [Getting Started with Retro Gaming](https://github.com/mikeroyal/Retro-Gaming-Guide#getting-started-with-retro-gaming) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+1. [Getting Started with Retro Gaming](https://github.com/mikeroyal/Retro-Gaming-Guide#getting-started-with-retro-gaming)
 
-   * [Game Emulators](https://github.com/mikeroyal/Retro-Gaming-Guide#game-emulators) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [Steam](https://github.com/mikeroyal/Retro-Gaming-Guide#steam) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [ProtonDB](https://github.com/mikeroyal/Retro-Gaming-Guide#protondb) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [Lutris](https://github.com/mikeroyal/Retro-Gaming-Guide#lutris) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [GameHub](https://github.com/mikeroyal/Retro-Gaming-Guide#gamehub) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [Epic Games Store](https://github.com/mikeroyal/Retro-Gaming-Guide#epic-games-store) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [Game Streaming](https://github.com/mikeroyal/Retro-Gaming-Guide#game-streaming) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+   * [Game Emulators](https://github.com/mikeroyal/Retro-Gaming-Guide#game-emulators)
+   * [Steam](https://github.com/mikeroyal/Retro-Gaming-Guide#steam)
+   * [ProtonDB](https://github.com/mikeroyal/Retro-Gaming-Guide#protondb)
+   * [Lutris](https://github.com/mikeroyal/Retro-Gaming-Guide#lutris)
+   * [GameHub](https://github.com/mikeroyal/Retro-Gaming-Guide#gamehub)
+   * [Epic Games Store](https://github.com/mikeroyal/Retro-Gaming-Guide#epic-games-store)
+   * [Game Streaming](https://github.com/mikeroyal/Retro-Gaming-Guide#game-streaming)
 
-2. [Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#steam-deck) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+2. [Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#steam-deck)
 
-   * [Steam Deck Development](https://github.com/mikeroyal/Retro-Gaming-Guide#steam-deck-development) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
-   * [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+   * [Steam Deck Development](https://github.com/mikeroyal/Retro-Gaming-Guide#steam-deck-development)
+   * [Other Linux Operating Systems for the Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#Other-Linux-Operating-Systems-for-the-Steam-Deck)
+   * [Getting Windows 10 or 11 on the Steam Deck](https://github.com/mikeroyal/Retro-Gaming-Guide#Getting-Windows-10-or-11-on-the-Steam-Deck)
 
-3. [Raspberry Pi](https://github.com/mikeroyal/Retro-Gaming-Guide#Raspberry-Pi) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+3. [Raspberry Pi](https://github.com/mikeroyal/Retro-Gaming-Guide#Raspberry-Pi)
 
-   * [Models of Raspberry Pi boards](https://github.com/mikeroyal/Retro-Gaming-Guide#models-of-raspberry-pi-boards) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+   * [Models of Raspberry Pi boards](https://github.com/mikeroyal/Retro-Gaming-Guide#models-of-raspberry-pi-boards)
 
-   * [Raspberry Pi Tools](https://github.com/mikeroyal/Retro-Gaming-Guide#raspberry-pi-tools) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+   * [Raspberry Pi Tools](https://github.com/mikeroyal/Retro-Gaming-Guide#raspberry-pi-tools)
 
-   * [Raspberry Pi Upgrades](https://github.com/mikeroyal/Retro-Gaming-Guide#raspberry-pi-upgrades) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+   * [Raspberry Pi Upgrades](https://github.com/mikeroyal/Retro-Gaming-Guide#raspberry-pi-upgrades)
 
-4. [Vulkan Development](https://github.com/mikeroyal/Retro-Gaming-Guide#vulkan-development) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+4. [Vulkan Development](https://github.com/mikeroyal/Retro-Gaming-Guide#vulkan-development)
 
-5. [DirectX Development](https://github.com/mikeroyal/Retro-Gaming-Guide#directx-development) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+5. [DirectX Development](https://github.com/mikeroyal/Retro-Gaming-Guide#directx-development)
 
-6. [OpenGL Development](https://github.com/mikeroyal/Retro-Gaming-Guide#opengl-development) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+6. [OpenGL Development](https://github.com/mikeroyal/Retro-Gaming-Guide#opengl-development)
 
-7. [Docker](https://github.com/mikeroyal/Retro-Gaming-Guide#docker) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+7. [Docker](https://github.com/mikeroyal/Retro-Gaming-Guide#docker)
 
-8. [Kubernetes](https://github.com/mikeroyal/Retro-Gaming-Guide#kubernetes) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+8. [Kubernetes](https://github.com/mikeroyal/Retro-Gaming-Guide#kubernetes)
 
-9. [Anisble](https://github.com/mikeroyal/Retro-Gaming-Guide#Ansible) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+9. [Anisble](https://github.com/mikeroyal/Retro-Gaming-Guide#Ansible)
 
-10. [Networking](https://github.com/mikeroyal/Retro-Gaming-Guide#networking) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+10. [Networking](https://github.com/mikeroyal/Retro-Gaming-Guide#networking)
 
 # Awesome Getting Started with Retro Gaming with stars
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 ## Game Emulators
 
@@ -86,9 +86,9 @@
 
 [DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
 
-[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,799 | 🐛 206 | 🌐 C++ | 📅 2026-09-29 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.
+[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,801 | 🐛 208 | 🌐 C++ | 📅 2026-10-03 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.
 
-[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,570 | 🐛 312 | 🌐 C++ | 📅 2026-10-01 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
+[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,570 | 🐛 314 | 🌐 C++ | 📅 2026-10-03 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
 
 [PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
 
@@ -100,11 +100,11 @@
 
 [xemu](https://xemu.app/) is an original Xbox emulator.
 
-[Xenia](https://github.com/xenia-project/xenia) ⭐ 9,695 | 🐛 323 | 🌐 C++ | 📅 2026-02-18 is an Xbox 360 Emulator.
+[Xenia](https://github.com/xenia-project/xenia) ⭐ 9,694 | 🐛 323 | 🌐 C++ | 📅 2026-02-18 is an Xbox 360 Emulator.
 
 ## Steam
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [Steam](https://store.steampowered.com/about/)
 
@@ -116,7 +116,7 @@
  <img src="https://user-images.githubusercontent.com/45159366/112692999-14ea9800-8e3d-11eb-964a-6bee4e665900.png">
 </p>
 
-[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,967 | 🐛 5,211 | 🌐 C++ | 📅 2026-10-02 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,966 | 🐛 5,210 | 🌐 C++ | 📅 2026-10-03 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
 ### Enable Proton in Steam
 
@@ -127,7 +127,7 @@
 
 ## ProtonDB
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [ProtonDB](https://www.protondb.com) is a collection of over 100,000 gaming reports from other gamers as they test games with Proton on Linux and provide aggregate scores of how well games perform. A growing pool of suggestions provides tweaks that you can try to get games working while Proton continues development. In addition to this, you may explore the Steam game catalog on this site to browse and discover a wide range of titles that were previously unavailable for use on Linux.
 
@@ -141,7 +141,7 @@
 
 ## Lutris
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [Lutris](https://lutris.net) is a gaming client for Linux. It gives you access to all your video games with the exception of the current console generation. Also, integrates nicely with other stores like GOG, Steam, Battle.net, Origin, Uplay and many other sources that allow you to import your existing game library and community maintained install scripts give you a completely automated setup.
 
@@ -151,7 +151,7 @@
 
 ## GameHub
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [GameHub](https://github.com/tkashkin/GameHub) ⚠️ Archived is a unified library for all your games. It allows you to store your games from different platforms into one program to make it easier for you to manage your games.
 
@@ -178,7 +178,7 @@
 
 ## Epic Games Store
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [Heroic](https://heroicgameslauncher.com/) is an Open Source Game Launcher for Linux, Windows and MacOS (for both Native and Windows Games using Crossover). It supports launching games from the Epic Games Store using Legendary, a CLI alternative to the Epic Games Launcher.
 
@@ -190,7 +190,7 @@
 
 ## Game Streaming
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [Geforce NOW](https://www.nvidia.com/en-us/geforce-now/download/) is NVIDIA's Cloud Gaming Service.
 
@@ -214,7 +214,7 @@
 
 # Steam Deck
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/142779553-82147e51-7e6d-47bd-9db6-fe2f5ad95355.png">
@@ -266,7 +266,7 @@ Graphics: RDNA 2 with 8 CUs, variable frequency @ 1.0–1.6 GHz.
 
 ## Steam Deck Development
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [Steamworks](https://partner.steamgames.com/doc/home) is a free suite of tools available to any developer to use in their game or software on Steam and the Steam Deck.
 
@@ -302,7 +302,7 @@ Steam Library Compatibility Badges for Games. Source: [Steam Deck](https://www.s
 
 ## Other Linux Operating Systems for the Steam Deck.
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 **[Manjaro Linux](https://manjaro.org/)**
 
@@ -362,7 +362,7 @@ Pop!_OS Desktop
 
 ## Getting Windows 10 or 11 on the Steam Deck
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 **[Windows 11](https://www.microsoft.com/en-us/software-download/windows11)**
 
@@ -380,7 +380,7 @@ Pop!_OS Desktop
 
 # Raspberry Pi
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/103486513-4cecbc80-4db3-11eb-89a0-fa155cbcdbda.png">
@@ -389,7 +389,7 @@ Pop!_OS Desktop
 
 ## Models of Raspberry Pi boards
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 **Raspberry Pi 4 Model B**
 
@@ -439,7 +439,7 @@ Pop!_OS Desktop
 
 ## Raspberry Pi Tools
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [Raspberry Pi Imager](https://www.raspberrypi.org/software/) is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi.
 
@@ -447,15 +447,15 @@ Pop!_OS Desktop
 
 [Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Home Assistant is powered by a worldwide community of tinkerers and DIY enthusiasts that runs great on Raspberry Pi.
 
-[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,219 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-02 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
+[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,218 | 🐛 38 | 🌐 JavaScript | 📅 2026-10-02 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
 
 [Kodi for Raspberry Pi](https://kodi.tv/download/853) is a free and open source media player application developed by the XBMC/Kodi Foundation.
 
 [Pi-hole](https://pi-hole.net/) is a [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_Sinkhole) that protects your devices from unwanted content, without installing any client-side software, intended for use on a private network. It is designed for use on embedded devices with network capability, such as the Raspberry Pi, but it can be used on other machines running Linux and cloud implementations.
 
-[PiKVM](https://github.com/pikvm/pikvm) ⭐ 10,370 | 🐛 89 | 📅 2026-09-21 is a very simple and fully functional Raspberry Pi-based KVM over IP.
+[PiKVM](https://github.com/pikvm/pikvm) ⭐ 10,369 | 🐛 89 | 📅 2026-09-21 is a very simple and fully functional Raspberry Pi-based KVM over IP.
 
-[PiShrink](https://github.com/Drewsif/PiShrink) ⭐ 4,117 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 is a bash script that automatically shrink a pi image that will then resize to the max size of the SD card on boot.
+[PiShrink](https://github.com/Drewsif/PiShrink) ⭐ 4,115 | 🐛 21 | 🌐 Shell | 📅 2026-05-10 is a bash script that automatically shrink a pi image that will then resize to the max size of the SD card on boot.
 
 [RPiPlay](https://github.com/FD-/RPiPlay) ⭐ 5,224 | 🐛 105 | 🌐 C++ | 📅 2023-04-14 is an open-source implementation of an AirPlay mirroring server for the Raspberry Pi that supports iOS 9 and later.
 
@@ -467,7 +467,7 @@ Pop!_OS Desktop
 
 ## Raspberry Pi Upgrades
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 [Raspberry Pi Cases from Pi-Shop US](https://www.pishop.us/product-category/raspberry-pi/pi-cases/)
 
@@ -525,7 +525,7 @@ Pop!_OS Desktop
 
 # Vulkan Development
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/129622224-8c4cca51-9200-4d70-9d16-2610d704713a.png">
@@ -538,9 +538,9 @@ Pop!_OS Desktop
 
 [Khronos Group GitHub](https://github.com/KhronosGroup)
 
-[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,344 | 🐛 391 | 🌐 JavaScript | 📅 2026-10-02
+[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,345 | 🐛 391 | 🌐 JavaScript | 📅 2026-10-02
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,657 | 🐛 758 | 🌐 C++ | 📅 2026-10-01
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,657 | 🐛 756 | 🌐 C++ | 📅 2026-10-01
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
@@ -558,9 +558,9 @@ Pop!_OS Desktop
 
 [SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) ⭐ 873 | 🐛 51 | 🌐 C | 📅 2026-09-28 is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
 
-[Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 496 | 🐛 30 | 🌐 C++ | 📅 2026-10-02 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
+[Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 496 | 🐛 28 | 🌐 C++ | 📅 2026-10-02 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,799 | 🐛 28 | 🌐 C++ | 📅 2026-10-01 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,800 | 🐛 29 | 🌐 C++ | 📅 2026-10-03 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -574,7 +574,7 @@ Pop!_OS Desktop
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,200 | 🐛 262 | 🌐 C++ | 📅 2026-10-01 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,204 | 🐛 262 | 🌐 C++ | 📅 2026-10-02 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -588,11 +588,11 @@ Pop!_OS Desktop
 
 [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 399 | 🐛 2 | 🌐 C# | 📅 2026-09-29 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,988 | 🐛 312 | 🌐 C | 📅 2026-10-02 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,987 | 🐛 313 | 🌐 C | 📅 2026-10-02 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 76,462 | 🐛 1,227 | 🌐 C++ | 📅 2026-10-02 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 76,469 | 🐛 1,228 | 🌐 C++ | 📅 2026-10-02 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
-[Ash](https://github.com/MaikKlein/ash) ⭐ 2,352 | 🐛 79 | 🌐 Rust | 📅 2026-09-25 is a very lightweight wrapper around Vulkan.
+[Ash](https://github.com/MaikKlein/ash) ⭐ 2,354 | 🐛 79 | 🌐 Rust | 📅 2026-09-25 is a very lightweight wrapper around Vulkan.
 
 [gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,398 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
 
@@ -600,7 +600,7 @@ Pop!_OS Desktop
 
 # DirectX Development
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/142779599-6a46ab05-c64a-48fe-a775-3e4f46e41f63.png">
@@ -635,7 +635,7 @@ Pop!_OS Desktop
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,839 | 🐛 110 | 🌐 C++ | 📅 2026-09-29 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
+[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,837 | 🐛 110 | 🌐 C++ | 📅 2026-09-29 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
 
 [PIX on Windows](https://devblogs.microsoft.com/pix/documentation/) is a performance tuning and debugging tool for DirectX 12 games on Windows.
 
@@ -643,7 +643,7 @@ Pop!_OS Desktop
 
 [NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
 
-[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,031 | 🐛 32 | 🌐 C++ | 📅 2026-10-01 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
+[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,033 | 🐛 32 | 🌐 C++ | 📅 2026-10-01 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
 
 [RTXMU - RTX Memory Utility SDK](https://github.com/NVIDIAGameWorks/RTXMU) ⭐ 143 | 🐛 2 | 🌐 C++ | 📅 2025-10-30 is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.
 
@@ -659,15 +659,15 @@ Pop!_OS Desktop
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,200 | 🐛 262 | 🌐 C++ | 📅 2026-10-01 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,204 | 🐛 262 | 🌐 C++ | 📅 2026-10-02 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,988 | 🐛 312 | 🌐 C | 📅 2026-10-02 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 2,987 | 🐛 313 | 🌐 C | 📅 2026-10-02 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
 # OpenGL Development
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/131386211-f507b5d4-a3c9-4c21-aadd-2aa5bde94d1e.png">
@@ -750,7 +750,7 @@ Pop!_OS Desktop
 
 # Docker
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/113521410-2e32c900-954e-11eb-8311-065fa0099546.png">
@@ -804,7 +804,7 @@ Pop!_OS Desktop
 
 # Kubernetes
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
@@ -841,23 +841,23 @@ Pop!_OS Desktop
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 40 | 🌐 Shell | 📅 2026-10-02 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 42 | 🌐 Shell | 📅 2026-10-03 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
-[OpenShift Hive](https://github.com/openshift/hive) ⭐ 276 | 🐛 8 | 🌐 Go | 📅 2026-10-02 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
+[OpenShift Hive](https://github.com/openshift/hive) ⭐ 276 | 🐛 7 | 🌐 Go | 📅 2026-10-02 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
 
 [Rook](https://rook.io/) is a tool that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
 
 [VMware Tanzu](https://tanzu.vmware.com/tanzu) is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,777 | 🐛 203 | 🌐 Jinja | 📅 2026-10-02 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
 
 [KubeInit](https://github.com/kubeinit/kubeinit) ⭐ 224 | 🐛 5 | 🌐 Python | 📅 2025-12-05 provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,108 | 🐛 73 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,111 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -885,7 +885,7 @@ Pop!_OS Desktop
 
 # Ansible
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/113448802-62bd4e00-93b1-11eb-9114-419e758af23b.png">
@@ -948,7 +948,7 @@ Pop!_OS Desktop
 
 [Ansible Silo](https://github.com/groupon/ansible-silo) is a self-contained Ansible environment by [Docker](https://www.docker.com/).
 
-[Ansigenome](https://github.com/nickjj/ansigenome) ⭐ 446 | 🐛 28 | 🌐 Python | 📅 2019-05-30 is a command line tool designed to help you manage your Ansible roles.
+[Ansigenome](https://github.com/nickjj/ansigenome) ⭐ 445 | 🐛 28 | 🌐 Python | 📅 2019-05-30 is a command line tool designed to help you manage your Ansible roles.
 
 [ARA](https://github.com/openstack/ara) ⭐ 2,024 | 🐛 133 | 🌐 Python | 📅 2026-07-13 is a records Ansible playbook runs and makes the recorded data available and intuitive for users and systems by integrating with Ansible as a callback plugin.
 
@@ -962,11 +962,11 @@ Pop!_OS Desktop
 
 [Red Hat OpenShift](https://www.openshift.com/) is focused on security at every level of the container stack and throughout the application lifecycle. It includes long-term, enterprise support from one of the leading Kubernetes contributors and open source software companies.
 
-[OpenShift Hive](https://github.com/openshift/hive) ⭐ 276 | 🐛 8 | 🌐 Go | 📅 2026-10-02 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
+[OpenShift Hive](https://github.com/openshift/hive) ⭐ 276 | 🐛 7 | 🌐 Go | 📅 2026-10-02 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
@@ -979,7 +979,7 @@ Pop!_OS Desktop
 
 [cURL Fuzzer](https://github.com/curl/curl-fuzzer) ⭐ 99 | 🐛 12 | 🌐 C++ | 📅 2026-10-02 is a quality assurance testing for the curl project.
 
-[DoH](https://github.com/curl/doh) ⭐ 431 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
+[DoH](https://github.com/curl/doh) ⭐ 430 | 🐛 6 | 🌐 C | 📅 2026-04-28 is a stand-alone application for DoH (DNS-over-HTTPS) name resolves and lookups.
 
 [Authelia](https://www.authelia.com/) is an open-source highly-available authentication server providing single sign-on capability and two-factor authentication to applications running behind [NGINX](https://nginx.org/en/).
 
@@ -991,11 +991,11 @@ Pop!_OS Desktop
 
 [HTTPie](https://github.com/httpie/httpie) ⭐ 38,607 | 🐛 346 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
-[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,219 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
+[HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,218 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
 [Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,737 | 🐛 41 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
-[Websocat](https://github.com/vi/websocat) ⭐ 8,703 | 🐛 159 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
+[Websocat](https://github.com/vi/websocat) ⭐ 8,704 | 🐛 159 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
 ```
 • Connection: In networking, a connection refers to pieces of related information that are transferred through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.
@@ -1109,14 +1109,14 @@ Networking works by piggybacks on a number of different protocols on top of each
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Retro-Gaming-Guide/pulls) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Retro-Gaming-Guide/pulls).
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents) ⭐ 61 | 🐛 0 | 🌐 Shell | 📅 2022-02-28
+[Back to the Top](https://github.com/mikeroyal/Retro-Gaming-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
