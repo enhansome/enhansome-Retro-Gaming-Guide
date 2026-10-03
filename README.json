@@ -41,11 +41,11 @@
             "id": 208509888,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T02:10:03Z",
+            "last_commit": "2026-10-03T12:45:06Z",
             "open_issues": 208,
             "owner": "dosbox-staging",
             "repo": "dosbox-staging",
-            "stars": 1801,
+            "stars": 1802,
             "topics": [
               "arm",
               "c",
@@ -78,11 +78,11 @@
             "id": 131286494,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-03T01:09:56Z",
-            "open_issues": 314,
+            "last_commit": "2026-10-03T09:12:03Z",
+            "open_issues": 313,
             "owner": "flyinghead",
             "repo": "flycast",
-            "stars": 2570,
+            "stars": 2572,
             "topics": [
               "emulation",
               "emulator",
@@ -142,10 +142,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-03T03:57:58Z",
-            "open_issues": 5210,
+            "open_issues": 5211,
             "owner": "ValveSoftware",
             "repo": "Proton",
-            "stars": 32966,
+            "stars": 32970,
             "topics": [
               "proton"
             ]
@@ -250,7 +250,7 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T12:55:18Z",
-                "open_issues": 38,
+                "open_issues": 43,
                 "owner": "GladysAssistant",
                 "repo": "Gladys",
                 "stars": 3218,
@@ -281,7 +281,7 @@
                 "language": null,
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-21T16:11:27Z",
-                "open_issues": 89,
+                "open_issues": 90,
                 "owner": "pikvm",
                 "repo": "pikvm",
                 "stars": 10369,
@@ -568,7 +568,7 @@
                 "open_issues": 262,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18204,
+                "stars": 18206,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -640,7 +640,7 @@
                 "open_issues": 2,
                 "owner": "amerkoleci",
                 "repo": "Vortice.Vulkan",
-                "stars": 399,
+                "stars": 400,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -670,7 +670,7 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-02T14:41:02Z",
-                "open_issues": 313,
+                "open_issues": 312,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2987,
@@ -694,7 +694,7 @@
                 "open_issues": 1228,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 76469,
+                "stars": 76475,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -731,7 +731,7 @@
                 "open_issues": 79,
                 "owner": "ash-rs",
                 "repo": "ash",
-                "stars": 2354,
+                "stars": 2355,
                 "topics": [
                   "gamedev",
                   "rust",
@@ -756,7 +756,7 @@
                 "open_issues": 331,
                 "owner": "gfx-rs",
                 "repo": "gfx",
-                "stars": 5398,
+                "stars": 5399,
                 "topics": [
                   "dx11",
                   "dx12",
@@ -829,7 +829,7 @@
                 "open_issues": 110,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6837,
+                "stars": 6838,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:39.093Z"
@@ -892,7 +892,7 @@
                 "open_issues": 262,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18204,
+                "stars": 18206,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -919,7 +919,7 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-10-02T14:41:02Z",
-                "open_issues": 313,
+                "open_issues": 312,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
                 "stars": 2987,
@@ -1024,10 +1024,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T18:28:08Z",
-                "open_issues": 75,
+                "open_issues": 74,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34111,
+                "stars": 34114,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -1337,10 +1337,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2024-12-17T17:30:35Z",
-                "open_issues": 346,
+                "open_issues": 345,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38607,
+                "stars": 38606,
                 "topics": [
                   "api",
                   "api-client",
@@ -1438,7 +1438,7 @@
                 "open_issues": 159,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8704,
+                "stars": 8705,
                 "topics": [
                   "cli",
                   "command-line",
@@ -1465,7 +1465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:29:14.260Z",
+    "last_updated": "2026-10-03T12:45:58.112Z",
     "original_repository_info": {
       "archived": false,
       "description": "Retro Gaming Guide.",
