@@ -80,15 +80,15 @@
 
 [Snes9x](https://www.snes9x.com/) is a portable, freeware Super Nintendo Entertainment System (SNES) emulator.
 
-[bsnes](https://github.com/bsnes-emu/bsnes) ⭐ 2,014 | 🐛 157 | 🌐 C++ | 📅 2026-10-07 is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
+[bsnes](https://github.com/bsnes-emu/bsnes) ⭐ 2,015 | 🐛 157 | 🌐 C++ | 📅 2026-10-07 is a Super Nintendo (SNES) emulator focused on performance, features, and ease of use.
 
 [mGBA](https://mgba.io/) is a new emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack.
 
 [DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
 
-[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,834 | 🐛 195 | 🌐 C++ | 📅 2026-11-03 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.
+[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,835 | 🐛 196 | 🌐 C++ | 📅 2026-11-03 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode.
 
-[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,635 | 🐛 323 | 🌐 C++ | 📅 2026-11-04 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
+[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,638 | 🐛 323 | 🌐 C++ | 📅 2026-11-04 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast.
 
 [PCSX2](https://pcsx2.net/) is a Playstation 2 'emulator', a free program that tries to replicate the Playstation 2 console to enable you to play PS2 games on your PC.
 
@@ -100,7 +100,7 @@
 
 [xemu](https://xemu.app/) is an original Xbox emulator.
 
-[Xenia](https://github.com/xenia-project/xenia) ⭐ 9,800 | 🐛 325 | 🌐 C++ | 📅 2026-02-18 is an Xbox 360 Emulator.
+[Xenia](https://github.com/xenia-project/xenia) ⭐ 9,803 | 🐛 325 | 🌐 C++ | 📅 2026-02-18 is an Xbox 360 Emulator.
 
 ## Steam
 
@@ -116,7 +116,7 @@
  <img src="https://user-images.githubusercontent.com/45159366/112692999-14ea9800-8e3d-11eb-964a-6bee4e665900.png">
 </p>
 
-[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 33,238 | 🐛 5,257 | 🌐 C++ | 📅 2026-11-06 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 33,241 | 🐛 5,257 | 🌐 C++ | 📅 2026-11-07 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
 ### Enable Proton in Steam
 
@@ -447,17 +447,17 @@ Pop!_OS Desktop
 
 [Home Assistant](https://www.home-assistant.io/) is an open source home automation that puts local control and privacy first. Home Assistant is powered by a worldwide community of tinkerers and DIY enthusiasts that runs great on Raspberry Pi.
 
-[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,271 | 🐛 48 | 🌐 JavaScript | 📅 2026-11-06 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
+[Gladys Assistant](https://github.com/gladysassistant/gladys) ⭐ 3,271 | 🐛 47 | 🌐 JavaScript | 📅 2026-11-06 is a  privacy-first, open-source home assistant and runs great on Raspberry Pi.
 
 [Kodi for Raspberry Pi](https://kodi.tv/download/853) is a free and open source media player application developed by the XBMC/Kodi Foundation.
 
 [Pi-hole](https://pi-hole.net/) is a [DNS sinkhole](https://en.wikipedia.org/wiki/DNS_Sinkhole) that protects your devices from unwanted content, without installing any client-side software, intended for use on a private network. It is designed for use on embedded devices with network capability, such as the Raspberry Pi, but it can be used on other machines running Linux and cloud implementations.
 
-[PiKVM](https://github.com/pikvm/pikvm) ⭐ 10,445 | 🐛 84 | 📅 2026-11-03 is a very simple and fully functional Raspberry Pi-based KVM over IP.
+[PiKVM](https://github.com/pikvm/pikvm) ⭐ 10,448 | 🐛 84 | 📅 2026-11-03 is a very simple and fully functional Raspberry Pi-based KVM over IP.
 
-[PiShrink](https://github.com/Drewsif/PiShrink) ⭐ 4,132 | 🐛 22 | 🌐 Shell | 📅 2026-05-10 is a bash script that automatically shrink a pi image that will then resize to the max size of the SD card on boot.
+[PiShrink](https://github.com/Drewsif/PiShrink) ⭐ 4,134 | 🐛 22 | 🌐 Shell | 📅 2026-05-10 is a bash script that automatically shrink a pi image that will then resize to the max size of the SD card on boot.
 
-[RPiPlay](https://github.com/FD-/RPiPlay) ⭐ 5,229 | 🐛 105 | 🌐 C++ | 📅 2023-04-14 is an open-source implementation of an AirPlay mirroring server for the Raspberry Pi that supports iOS 9 and later.
+[RPiPlay](https://github.com/FD-/RPiPlay) ⭐ 5,230 | 🐛 105 | 🌐 C++ | 📅 2023-04-14 is an open-source implementation of an AirPlay mirroring server for the Raspberry Pi that supports iOS 9 and later.
 
 [Gpiozero](https://github.com/gpiozero/gpiozero) ⭐ 2,140 | 🐛 182 | 🌐 Python | 📅 2026-07-27 is a simple interface to GPIO(General-Purpose Input/Output) devices with the Raspberry Pi.
 
@@ -538,15 +538,15 @@ Pop!_OS Desktop
 
 [Khronos Group GitHub](https://github.com/KhronosGroup)
 
-[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,370 | 🐛 396 | 🌐 JavaScript | 📅 2026-11-06
+[Vulkan Documentation](https://github.com/KhronosGroup/Vulkan-Docs) ⭐ 3,371 | 🐛 396 | 🌐 JavaScript | 📅 2026-11-06
 
-[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,694 | 🐛 782 | 🌐 C++ | 📅 2026-11-06
+[HLSL to SPIR-V Feature Mapping Manual](https://github.com/microsoft/DirectXShaderCompiler/blob/master/docs/SPIR-V.rst) ⭐ 3,693 | 🐛 784 | 🌐 C++ | 📅 2026-11-06
 
 [Vulkan GLSL Ray Tracing Emulator Tutorial](https://www.gsn-lib.org/docs/nodes/raytracing.php)
 
 [Getting Started with Vulkan](https://vulkan-tutorial.com/)
 
-[Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples) ⭐ 5,415 | 🐛 45 | 🌐 C++ | 📅 2026-11-02
+[Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples) ⭐ 5,418 | 🐛 45 | 🌐 C++ | 📅 2026-11-02
 
 [Khronos Community Forums](https://community.khronos.org/)
 
@@ -556,11 +556,11 @@ Pop!_OS Desktop
 
 [SPIR-V](https://www.khronos.org/spir/) is a set of tools that enables high-level language front-ends to emit programs in a standardized intermediate form to be ingested by Vulkan, OpenGL or OpenCL drivers. It eliminates the need for high-level language front-end compilers in device drivers, significantly reducing driver complexity, enables a broad range of language and framework front-ends to run on diverse hardware architectures and encourages a vibrant ecosystem of open source analysis, porting, debug and optimization tools.
 
-[SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) ⭐ 881 | 🐛 50 | 🌐 C | 📅 2026-11-01 is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
+[SPIRV-Reflect](https://github.com/KhronosGroup/SPIRV-Reflect) ⭐ 880 | 🐛 50 | 🌐 C | 📅 2026-11-01 is a lightweight library that provides a C/C++ reflection API for SPIR-V shader bytecode in Vulkan applications.
 
 [Vulkan® Tools](https://github.com/KhronosGroup/Vulkan-Tools) ⭐ 500 | 🐛 31 | 🌐 C++ | 📅 2026-11-06 is a project that provides Khronos official Vulkan Tools and Utilities for Windows, Linux, Android, and macOS.
 
-[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,818 | 🐛 29 | 🌐 C++ | 📅 2026-11-04 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
+[Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) ⭐ 3,820 | 🐛 30 | 🌐 C++ | 📅 2026-11-07 is a API that provides a header only C++ bindings for the Vulkan C API to improve the developers Vulkan experience without introducing CPU runtime cost. It adds features like type safety for enums and bitfields, STL container support, exceptions and simple enumerations.
 
 [Vulkan® Memory Allocator (VMA)](https://gpuopen.com/vulkan-memory-allocator/) is a  library that provides a simple and easy to integrate API to help you allocate memory for Vulkan® buffer and image storage.
 
@@ -574,7 +574,7 @@ Pop!_OS Desktop
 
 [Radeon™ Memory Visualizer (RMV)](https://gpuopen.com/rmv/) is a tool provided by AMD for use by game engine developers. It allows engineers to examine, diagnose, and understand the GPU memory management within their projects.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,436 | 🐛 253 | 🌐 C++ | 📅 2026-11-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,437 | 🐛 255 | 🌐 C++ | 📅 2026-11-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
 [MoltenVK](https://moltengl.com/moltenvk) is an implementation of Vulkan running on iOS and macOS using Apple's [Metal](https://developer.apple.com/metal/) graphics framework.
 
@@ -588,15 +588,15 @@ Pop!_OS Desktop
 
 [Vortice.Vulkan](https://github.com/amerkoleci/Vortice.Vulkan) ⭐ 407 | 🐛 1 | 🌐 C++ | 📅 2026-10-07 is a .NET Standard 2.0 and .NET5 low-level bindings for Vulkan API.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 3,044 | 🐛 328 | 🌐 C | 📅 2026-11-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 3,043 | 🐛 332 | 🌐 C | 📅 2026-11-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
-[ImGui](https://github.com/ocornut/imgui) ⭐ 76,992 | 🐛 1,219 | 🌐 C++ | 📅 2026-11-05 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
+[ImGui](https://github.com/ocornut/imgui) ⭐ 77,012 | 🐛 1,219 | 🌐 C++ | 📅 2026-11-05 is a bloat-free graphical user interface library for C++. It outputs optimized vertex buffers that you can render anytime in your 3D-pipeline enabled application. It is fast, portable, renderer agnostic and self-contained (no external dependencies).
 
 [Ash](https://github.com/MaikKlein/ash) ⭐ 2,381 | 🐛 81 | 🌐 Rust | 📅 2026-11-04 is a very lightweight wrapper around Vulkan.
 
-[gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,394 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
+[gfx-rs](https://github.com/gfx-rs/gfx) ⭐ 5,393 | 🐛 331 | 🌐 Rust | 📅 2023-02-27 is a low-level, cross-platform graphics and compute abstraction library in Rust.
 
-[Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) ⭐ 128 | 🐛 1 | 🌐 Julia | 📅 2026-11-05 is a lightweight wrapper around the Vulkan graphics and compute library. It exposes abstractions over the underlying C interface, primarily geared towards developers looking for a more natural way to work with Vulkan with minimal overhead.
+[Vulkan.jl](https://github.com/JuliaGPU/Vulkan.jl) ⭐ 128 | 🐛 1 | 🌐 Julia | 📅 2026-11-07 is a lightweight wrapper around the Vulkan graphics and compute library. It exposes abstractions over the underlying C interface, primarily geared towards developers looking for a more natural way to work with Vulkan with minimal overhead.
 
 # DirectX Development
 
@@ -635,7 +635,7 @@ Pop!_OS Desktop
 
 [Visual Studio Code](https://code.visualstudio.com/) is a code editor redefined and optimized for building and debugging modern web and cloud applications.
 
-[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,864 | 🐛 112 | 🌐 C++ | 📅 2026-10-28 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
+[DirectX-Graphics-Samples](https://github.com/Microsoft/DirectX-Graphics-Samples) ⭐ 6,866 | 🐛 112 | 🌐 C++ | 📅 2026-10-28 is a project that contains the DirectX 12 Graphics samples that demonstrate how to build graphics intensive applications for Windows 10.
 
 [PIX on Windows](https://devblogs.microsoft.com/pix/documentation/) is a performance tuning and debugging tool for DirectX 12 games on Windows.
 
@@ -643,9 +643,9 @@ Pop!_OS Desktop
 
 [NVIDIA® Nsight™ Visual Studio Edition](https://developer.nvidia.com/nsight-visual-studio-edition) is an application development environment for heterogeneous platforms which brings GPU computing into Microsoft Visual Studio. NVIDIA Nsight™ VSE allows you to build and debug integrated GPU kernels and native CPU code as well as inspect the state of the GPU and memory.
 
-[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,094 | 🐛 48 | 🌐 C++ | 📅 2026-10-28 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
+[NVRHI (NVIDIA Rendering Hardware Interface)](https://github.com/NVIDIAGameWorks/nvrhi) ⭐ 2,096 | 🐛 48 | 🌐 C++ | 📅 2026-11-06 is a library that implements a common abstraction layer over multiple graphics APIs (GAPIs): Direct3D 11, Direct3D 12, and Vulkan 1.2. It works on Windows (x64 only) and Linux (x64 and ARM64).
 
-[RTXMU - RTX Memory Utility SDK](https://github.com/NVIDIAGameWorks/RTXMU) ⭐ 143 | 🐛 2 | 🌐 C++ | 📅 2025-10-30 is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.
+[RTXMU - RTX Memory Utility SDK](https://github.com/NVIDIAGameWorks/RTXMU) ⭐ 144 | 🐛 2 | 🌐 C++ | 📅 2025-10-30 is an SDK tool that batchs up all of the acceleration structure build inputs and pass them to RTXMU which in turn will perform all the suballocation memory requests and build details including compaction. Then post build info is abstracted away by the SDK in order to do compaction under the hood. RTXMU returns acceleration structure handle ids that are used to reference the underlying memory buffers. These handle ids are passed into RTXMU to create compaction copy workloads, deallocate unused build resources or remove all memory associated with an acceleration structure.
 
 [Radeon™ GPU Profiler](https://gpuopen.com/rgp/) is a performance tool that can be used by developers to optimize DirectX®12, Vulkan® and OpenCL™ applications for AMD RDNA™ and GCN hardware.
 
@@ -659,9 +659,9 @@ Pop!_OS Desktop
 
 [Simple DirectMedia Layer](https://www.libsdl.org/) is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D. It is used by video playback software, emulators, and popular games including Valve's award winning catalog.
 
-[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,436 | 🐛 253 | 🌐 C++ | 📅 2026-11-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
+[DXVK](https://github.com/doitsujin/dxvk) ⭐ 18,437 | 🐛 255 | 🌐 C++ | 📅 2026-11-06 is a Vulkan-based translation layer for Direct3D 9/10/11 which allows running 3D applications on Linux using Wine.
 
-[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 3,044 | 🐛 328 | 🌐 C | 📅 2026-11-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
+[VKD3D-Proton](https://github.com/HansKristian-Work/vkd3d-proton) ⭐ 3,043 | 🐛 332 | 🌐 C | 📅 2026-11-06 is a fork of VKD3D, which aims to implement the full Direct3D 12 API on top of Vulkan.
 
 [RenderDoc](https://renderdoc.org) is a stand-alone graphics debugger that allows quick and easy single-frame capture and detailed introspection of any application using Vulkan, D3D11, OpenGL & OpenGL ES or D3D12 across Windows, Linux, Android, Stadia, or Nintendo Switch™.
 
@@ -841,23 +841,23 @@ Pop!_OS Desktop
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 54 | 🌐 Go | 📅 2026-11-06 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 50 | 🐛 60 | 🌐 Go | 📅 2026-11-07 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
-[OpenShift Hive](https://github.com/openshift/hive) ⭐ 274 | 🐛 7 | 🌐 Go | 📅 2026-11-06 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
+[OpenShift Hive](https://github.com/openshift/hive) ⭐ 274 | 🐛 7 | 🌐 Go | 📅 2026-11-07 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
 
 [Rook](https://rook.io/) is a tool that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
 
 [VMware Tanzu](https://tanzu.vmware.com/tanzu) is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,820 | 🐛 189 | 🌐 Jinja | 📅 2026-11-06, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,820 | 🐛 189 | 🌐 Jinja | 📅 2026-11-06, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,820 | 🐛 189 | 🌐 Jinja | 📅 2026-11-06, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,820 | 🐛 189 | 🌐 Jinja | 📅 2026-11-06, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,820 | 🐛 189 | 🌐 Jinja | 📅 2026-11-06 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,822 | 🐛 193 | 🌐 Jinja | 📅 2026-11-07, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,822 | 🐛 193 | 🌐 Jinja | 📅 2026-11-07, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,822 | 🐛 193 | 🌐 Jinja | 📅 2026-11-07, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,822 | 🐛 193 | 🌐 Jinja | 📅 2026-11-07, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,822 | 🐛 193 | 🌐 Jinja | 📅 2026-11-07 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
 
 [KubeInit](https://github.com/kubeinit/kubeinit) ⭐ 223 | 🐛 5 | 🌐 Python | 📅 2025-12-05 provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,347 | 🐛 95 | 🌐 Go | 📅 2026-11-05 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,352 | 🐛 78 | 🌐 Go | 📅 2026-11-07 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -908,7 +908,7 @@ Pop!_OS Desktop
 
 [Working with playbooks](https://docs.ansible.com/ansible/latest/user_guide/playbooks.html)
 
-[Ansible for DevOps Examples by Jeff Geerling](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,947 | 🐛 120 | 🌐 Python | 📅 2025-05-25
+[Ansible for DevOps Examples by Jeff Geerling](https://github.com/geerlingguy/ansible-for-devops) ⭐ 9,948 | 🐛 120 | 🌐 Python | 📅 2025-05-25
 
 [Getting Started: Writing Your First Playbook - Ansible](https://www.ansible.com/blog/getting-started-writing-your-first-playbook)
 
@@ -962,7 +962,7 @@ Pop!_OS Desktop
 
 [Red Hat OpenShift](https://www.openshift.com/) is focused on security at every level of the container stack and throughout the application lifecycle. It includes long-term, enterprise support from one of the leading Kubernetes contributors and open source software companies.
 
-[OpenShift Hive](https://github.com/openshift/hive) ⭐ 274 | 🐛 7 | 🌐 Go | 📅 2026-11-06 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
+[OpenShift Hive](https://github.com/openshift/hive) ⭐ 274 | 🐛 7 | 🌐 Go | 📅 2026-11-07 is an operator which runs as a service on top of Kubernetes/OpenShift. The Hive service can be used to provision and perform initial configuration of OpenShift 4 clusters.
 
 # Networking
 
@@ -989,13 +989,13 @@ Pop!_OS Desktop
 
 [Wireshark](https://www.wireshark.org/) is a very popular network protocol analyzer that is commonly used for network troubleshooting, analysis, and communications protocol development. Learn more about the other useful [Wireshark Tools](https://wiki.wireshark.org/Tools) available.
 
-[HTTPie](https://github.com/httpie/httpie) ⭐ 38,696 | 🐛 362 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
+[HTTPie](https://github.com/httpie/httpie) ⭐ 38,697 | 🐛 362 | 🌐 Python | 📅 2024-12-17 is a command-line HTTP client. Its goal is to make CLI interaction with web services as human-friendly as possible. HTTPie is designed for testing, debugging, and generally interacting with APIs & HTTP servers.
 
 [HTTPStat](https://github.com/reorx/httpstat) ⭐ 6,220 | 🐛 9 | 🌐 Python | 📅 2026-04-08 is a tool that visualizes curl statistics in a simple layout.
 
 [Wuzz](https://github.com/asciimoo/wuzz) ⭐ 10,741 | 🐛 42 | 🌐 Go | 📅 2026-08-04 is an interactive cli tool for HTTP inspection. It can be used to inspect/modify requests copied from the browser's network inspector with the "copy as cURL" feature.
 
-[Websocat](https://github.com/vi/websocat) ⭐ 8,750 | 🐛 161 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
+[Websocat](https://github.com/vi/websocat) ⭐ 8,751 | 🐛 161 | 🌐 Rust | 📅 2026-08-13 is a ommand-line client for WebSockets, like netcat (or curl) for ws\:// with advanced socat-like functions.
 
 ```
 • Connection: In networking, a connection refers to pieces of related information that are transferred through a network. This generally infers that a connection is built before the data transfer (by following the procedures laid out in a protocol) and then is deconstructed at the at the end of the data transfer.
@@ -1119,4 +1119,4 @@ Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
