@@ -41,8 +41,8 @@
             "id": 208509888,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T15:09:30Z",
-            "open_issues": 206,
+            "last_commit": "2026-11-19T23:18:17Z",
+            "open_issues": 205,
             "owner": "dosbox-staging",
             "repo": "dosbox-staging",
             "stars": 1841,
@@ -78,11 +78,11 @@
             "id": 131286494,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-18T10:13:39Z",
-            "open_issues": 331,
+            "last_commit": "2026-11-20T16:13:24Z",
+            "open_issues": 332,
             "owner": "flyinghead",
             "repo": "flycast",
-            "stars": 2663,
+            "stars": 2666,
             "topics": [
               "emulation",
               "emulator",
@@ -108,7 +108,7 @@
             "open_issues": 325,
             "owner": "xenia-project",
             "repo": "xenia",
-            "stars": 9840,
+            "stars": 9842,
             "topics": [
               "c-plus-plus",
               "cpp",
@@ -141,11 +141,11 @@
             "id": 125098880,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T16:44:37Z",
-            "open_issues": 5274,
+            "last_commit": "2026-11-20T14:54:14Z",
+            "open_issues": 5272,
             "owner": "ValveSoftware",
             "repo": "Proton",
-            "stars": 33315,
+            "stars": 33321,
             "topics": [
               "proton"
             ]
@@ -174,7 +174,7 @@
             "open_issues": 272,
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2877,
+            "stars": 2878,
             "topics": [
               "elementary",
               "elementary-apps",
@@ -219,7 +219,7 @@
                 "open_issues": 15,
                 "owner": "ChrisTitusTech",
                 "repo": "ArchTitus",
-                "stars": 1879,
+                "stars": 1878,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:39.093Z"
@@ -249,11 +249,11 @@
                 "id": 36928490,
                 "language": "JavaScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T15:42:55Z",
-                "open_issues": 50,
+                "last_commit": "2026-11-20T16:23:05Z",
+                "open_issues": 37,
                 "owner": "GladysAssistant",
                 "repo": "Gladys",
-                "stars": 3280,
+                "stars": 3279,
                 "topics": [
                   "assistant",
                   "automation",
@@ -284,7 +284,7 @@
                 "open_issues": 87,
                 "owner": "pikvm",
                 "repo": "pikvm",
-                "stars": 10481,
+                "stars": 10485,
                 "topics": [
                   "atx",
                   "hardware",
@@ -321,7 +321,7 @@
                 "open_issues": 24,
                 "owner": "Drewsif",
                 "repo": "PiShrink",
-                "stars": 4145,
+                "stars": 4147,
                 "topics": [
                   "pi-image",
                   "raspberry-pi",
@@ -369,11 +369,11 @@
                 "id": 42439862,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-14T12:57:23Z",
+                "last_commit": "2026-11-19T21:42:18Z",
                 "open_issues": 188,
                 "owner": "gpiozero",
                 "repo": "gpiozero",
-                "stars": 2139,
+                "stars": 2137,
                 "topics": [
                   "education",
                   "gpio",
@@ -411,11 +411,11 @@
                 "id": 51506618,
                 "language": "JavaScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-12T02:22:53Z",
-                "open_issues": 397,
+                "last_commit": "2026-11-20T01:26:32Z",
+                "open_issues": 396,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Docs",
-                "stars": 3374,
+                "stars": 3376,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:39.093Z"
@@ -432,11 +432,11 @@
                 "id": 75787966,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-19T16:30:25Z",
-                "open_issues": 793,
+                "last_commit": "2026-11-20T15:05:40Z",
+                "open_issues": 783,
                 "owner": "microsoft",
                 "repo": "DirectXShaderCompiler",
-                "stars": 3699,
+                "stars": 3700,
                 "topics": [
                   "directx-shader-compiler",
                   "dxil",
@@ -462,7 +462,7 @@
                 "open_issues": 46,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Samples",
-                "stars": 5422,
+                "stars": 5421,
                 "topics": [
                   "best-practices",
                   "cpp",
@@ -517,7 +517,7 @@
                 "id": 132043481,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-16T20:47:30Z",
+                "last_commit": "2026-11-20T06:38:40Z",
                 "open_issues": 34,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Tools",
@@ -544,7 +544,7 @@
                 "open_issues": 31,
                 "owner": "KhronosGroup",
                 "repo": "Vulkan-Hpp",
-                "stars": 3823,
+                "stars": 3822,
                 "topics": [
                   "cpp",
                   "vulkan"
@@ -564,11 +564,11 @@
                 "id": 106558568,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-11-19T14:50:28Z",
+                "last_commit": "2026-11-20T13:02:30Z",
                 "open_issues": 262,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18515,
+                "stars": 18519,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -619,7 +619,7 @@
                 "open_issues": 25,
                 "owner": "mono",
                 "repo": "VulkanSharp",
-                "stars": 532,
+                "stars": 530,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:39.093Z"
@@ -640,7 +640,7 @@
                 "open_issues": 1,
                 "owner": "amerkoleci",
                 "repo": "Vortice.Vulkan",
-                "stars": 408,
+                "stars": 406,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -669,7 +669,7 @@
                 "id": 209527239,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-19T15:06:56Z",
+                "last_commit": "2026-11-20T14:09:03Z",
                 "open_issues": 319,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
@@ -694,7 +694,7 @@
                 "open_issues": 1212,
                 "owner": "ocornut",
                 "repo": "imgui",
-                "stars": 77177,
+                "stars": 77198,
                 "topics": [
                   "api",
                   "cplusplus",
@@ -731,7 +731,7 @@
                 "open_issues": 81,
                 "owner": "ash-rs",
                 "repo": "ash",
-                "stars": 2391,
+                "stars": 2389,
                 "topics": [
                   "gamedev",
                   "rust",
@@ -756,7 +756,7 @@
                 "open_issues": 331,
                 "owner": "gfx-rs",
                 "repo": "gfx",
-                "stars": 5395,
+                "stars": 5394,
                 "topics": [
                   "dx11",
                   "dx12",
@@ -829,7 +829,7 @@
                 "open_issues": 112,
                 "owner": "microsoft",
                 "repo": "DirectX-Graphics-Samples",
-                "stars": 6873,
+                "stars": 6874,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:39.093Z"
@@ -847,10 +847,10 @@
                 "language": "C++",
                 "license": "MIT",
                 "last_commit": "2026-11-06T15:44:49Z",
-                "open_issues": 56,
+                "open_issues": 58,
                 "owner": "NVIDIA-RTX",
                 "repo": "NVRHI",
-                "stars": 2105,
+                "stars": 2106,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:39.093Z"
@@ -888,11 +888,11 @@
                 "id": 106558568,
                 "language": "C++",
                 "license": "Zlib",
-                "last_commit": "2026-11-19T14:50:28Z",
+                "last_commit": "2026-11-20T13:02:30Z",
                 "open_issues": 262,
                 "owner": "doitsujin",
                 "repo": "dxvk",
-                "stars": 18515,
+                "stars": 18519,
                 "topics": [
                   "d3d11",
                   "d3d9",
@@ -918,7 +918,7 @@
                 "id": 209527239,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-11-19T15:06:56Z",
+                "last_commit": "2026-11-20T14:09:03Z",
                 "open_issues": 319,
                 "owner": "HansKristian-Work",
                 "repo": "vkd3d-proton",
@@ -953,7 +953,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-16T18:55:12Z",
-                "open_issues": 56,
+                "open_issues": 57,
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 53,
@@ -1023,11 +1023,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-19T10:57:57Z",
-                "open_issues": 115,
+                "last_commit": "2026-11-19T18:19:58Z",
+                "open_issues": 114,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34464,
+                "stars": 34474,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -1087,7 +1087,7 @@
                 "open_issues": 120,
                 "owner": "geerlingguy",
                 "repo": "ansible-for-devops",
-                "stars": 9961,
+                "stars": 9959,
                 "topics": [
                   "amazon",
                   "ansible",
@@ -1179,7 +1179,7 @@
                 "open_issues": 0,
                 "owner": "dominis",
                 "repo": "ansible-shell",
-                "stars": 546,
+                "stars": 545,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:36:39.093Z"
@@ -1200,7 +1200,7 @@
                 "open_issues": 28,
                 "owner": "nickjj",
                 "repo": "ansigenome",
-                "stars": 445,
+                "stars": 444,
                 "topics": [
                   "ansible",
                   "python"
@@ -1224,7 +1224,7 @@
                 "open_issues": 133,
                 "owner": "ansible-community",
                 "repo": "ara",
-                "stars": 2026,
+                "stars": 2025,
                 "topics": [
                   "ansible",
                   "api",
@@ -1284,8 +1284,8 @@
                 "id": 104416990,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-11-18T22:11:05Z",
-                "open_issues": 13,
+                "last_commit": "2026-11-20T10:12:06Z",
+                "open_issues": 10,
                 "owner": "curl",
                 "repo": "curl-fuzzer",
                 "stars": 100,
@@ -1340,7 +1340,7 @@
                 "open_issues": 364,
                 "owner": "httpie",
                 "repo": "cli",
-                "stars": 38723,
+                "stars": 38725,
                 "topics": [
                   "api",
                   "api-client",
@@ -1382,7 +1382,7 @@
                 "open_issues": 9,
                 "owner": "reorx",
                 "repo": "httpstat",
-                "stars": 6223,
+                "stars": 6222,
                 "topics": [
                   "cli",
                   "curl",
@@ -1409,7 +1409,7 @@
                 "open_issues": 42,
                 "owner": "asciimoo",
                 "repo": "wuzz",
-                "stars": 10746,
+                "stars": 10745,
                 "topics": [
                   "cli",
                   "curl",
@@ -1438,7 +1438,7 @@
                 "open_issues": 157,
                 "owner": "vi",
                 "repo": "websocat",
-                "stars": 8761,
+                "stars": 8760,
                 "topics": [
                   "cli",
                   "command-line",
@@ -1465,7 +1465,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T16:50:45.091Z",
+    "last_updated": "2026-11-20T16:25:17.394Z",
     "original_repository_info": {
       "archived": false,
       "description": "Retro Gaming Guide.",
